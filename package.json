@@ -1,0 +1,15 @@
+{
+  "name": "@jrice189/nodeschool",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-tutorial"
+  },
+  "author": "Jake Rice",
+  "license": "ISC"
+}
